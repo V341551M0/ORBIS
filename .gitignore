@@ -1,2 +1,8 @@
 .env.example
-.target/
+target/
+.vscode/
+.idea/
+.node_modules/
+dist/
+coverage/
+*.log
